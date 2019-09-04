@@ -98,7 +98,7 @@ def setup(app):
 # HTML output
 # -----------------------------------------------------------------------------
 
-themedir = os.path.join(os.pardir, 'src/custom-sphinx-theme')
+themedir = os.path.join(os.pardir, 'src/scipy-sphinx-theme-v2')
 if not os.path.isdir(themedir):
     raise RuntimeError("Get the scipy-sphinx-theme first, "
                        "via git submodule init && git submodule update")

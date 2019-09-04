@@ -4,7 +4,7 @@
 Run python setup inside custom-sphinx-theme to install theme:
 
 ```
-cd docs/src/custom-sphinx-theme && python setup.py install
+cd docs/src/scipy-sphinx-theme-v2 && python setup.py install
 
 ```
 
